@@ -1,7 +1,7 @@
 # TheGenerals
 Game of the Generals
 
-This game will designed using TypeScript primarily. 
+This game will be designed using TypeScript primarily. 
 
 The rules of the game are as follows:
 Starting with a blank board, both players select where to place their 21 pieces. 
